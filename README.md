@@ -1,5 +1,5 @@
 # testGitHub
 
-|test|state|
+|test|status|
 |-|-|
 |firstTest|successful|
